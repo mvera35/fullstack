@@ -1,0 +1,24 @@
+#bar {
+	background-color: #0d5698;
+	border: 2px solid black;
+}
+
+#dropdown {
+	background-color: #62a8dd;
+}
+
+#dropdown a {
+	text-align: center;
+	border: 1px solid black;
+	color: black;
+}
+
+#title {
+	margin: 3%;
+}
+
+.box {
+	background-color: #bbbbbb;
+	border: 1px solid black;
+	margin: 2%;
+}
